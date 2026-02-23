@@ -13,8 +13,7 @@ Une interface web moderne pour publier des articles sur Telegraph (telegra.ph) a
 - Sauvegarde locale du token (localStorage)
 
 ## Déploiement
-Hébergé sur Vercel : [https://telegraph-pro-mod-prod.vercel.app](https://telegraph-pro-mod-prod.vercel.app)  
-(Change l'URL une fois que Vercel t'a donné la tienne)
+[https://mod-prod.github.io/telegraph-pro/](https://mod-prod.github.io/telegraph-pro/)
 
 ## Comment utiliser
 1. Obtiens un token via @telegraph bot sur Telegram
